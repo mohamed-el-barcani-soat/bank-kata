@@ -1,0 +1,5 @@
+
+]
+java:S2259"BA "NullPointerException" could be thrown; "lock" is nullable here.(òÒÅÎøÿÿÿÿ
+d
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ä’¬Ï
